@@ -1,0 +1,60 @@
+Sorting algorithm - QuickSort
+Sorted 100 elements in 0.08122705000000002 ms (avg)
+Sorted 500 elements in 0.0254396 ms (avg)
+Sorted 1000 elements in 0.050160399999999994 ms (avg)
+Sorted 2000 elements in 0.15873974999999999 ms (avg)
+Sorted 5000 elements in 0.272198 ms (avg)
+Sorted 10000 elements in 0.4721561499999999 ms (avg)
+Sorted 20000 elements in 1.0596750499999998 ms (avg)
+Sorted 75000 elements in 4.3606958 ms (avg)
+Sorted 150000 elements in 9.447031149999999 ms (avg)
+
+Sorting algorithm - MergeSort
+Sorted 100 elements in 0.0701145 ms (avg)
+Sorted 500 elements in 0.04947295 ms (avg)
+Sorted 1000 elements in 0.09752095000000001 ms (avg)
+Sorted 2000 elements in 0.26846469999999995 ms (avg)
+Sorted 5000 elements in 0.42164999999999997 ms (avg)
+Sorted 10000 elements in 1.07858765 ms (avg)
+Sorted 20000 elements in 2.57655415 ms (avg)
+Sorted 75000 elements in 9.09885195 ms (avg)
+Sorted 150000 elements in 16.360741549999997 ms (avg)
+
+Sorting algorithm - ShellSort
+Sorted 100 elements in 0.04454364999999999 ms (avg)
+Sorted 500 elements in 0.12178325000000001 ms (avg)
+Sorted 1000 elements in 0.10815605000000002 ms (avg)
+Sorted 2000 elements in 0.1884334 ms (avg)
+Sorted 5000 elements in 0.34968530000000003 ms (avg)
+Sorted 10000 elements in 0.7753917499999998 ms (avg)
+Sorted 20000 elements in 1.7108894500000003 ms (avg)
+Sorted 75000 elements in 7.498716700000001 ms (avg)
+Sorted 150000 elements in 16.3715603 ms (avg)
+
+Sorting algorithm - InsertionSort
+Sorted 100 elements in 0.06344364999999999 ms (avg)
+Sorted 500 elements in 0.15412504999999999 ms (avg)
+Sorted 1000 elements in 0.3729687999999999 ms (avg)
+Sorted 2000 elements in 0.23579790000000006 ms (avg)
+Sorted 5000 elements in 1.43825625 ms (avg)
+Sorted 10000 elements in 5.770739600000001 ms (avg)
+Sorted 20000 elements in 23.10229785 ms (avg)
+Sorted 75000 elements in 325.71269164999995 ms (avg)
+Sorted 150000 elements in 1302.3136623999999 ms (avg)
+
+Sorting algorithm - SelectionSort
+Sorted 100 elements in 0.1114771 ms (avg)
+Sorted 500 elements in 0.210927 ms (avg)
+Sorted 1000 elements in 0.3998000500000001 ms (avg)
+Sorted 2000 elements in 1.46063755 ms (avg)
+Sorted 5000 elements in 9.16921245 ms (avg)
+Sorted 10000 elements in 36.98933545 ms (avg)
+Sorted 20000 elements in 149.47549379999998 ms (avg)
+Sorted 75000 elements in 2127.1161542 ms (avg)
+Sorted 150000 elements in 8403.8744083 ms (avg)
+
+Sorting algorithm - BubbleSort
+Sorted 100 elements in 0.18147509999999997 ms (avg)
+Sorted 500 elements in 0.28408550000000005 ms (avg)
+Sorted 1000 elements in 0.54338945 ms (avg)
+Sorted 
